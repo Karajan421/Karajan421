@@ -1,4 +1,4 @@
-### Currently working on reasoning processes for open-source langugage agents ⚡
+### Currently working on reasoning processes for open-source language agents ⚡
 
 - Collaborating with iGavroche and [paolorechia](https://github.com/paolorechia) on [BrainChulo]( https://github.com/ChuloAI/BrainChulo) a local GPT chat like tool.
 - We're focused on setting up LTM for local LLMs to enable reliable, fact-based interactions with language agents.
